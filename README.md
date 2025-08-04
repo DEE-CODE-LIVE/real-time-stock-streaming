@@ -118,3 +118,7 @@ output/
 __pycache__/
 kafka_producer/kafka_2.12-3.4.1/
 ```
+<img width="1258" height="722" alt="Screenshot 2025-08-03 233535" src="https://github.com/user-attachments/assets/4ff1670a-2c5e-477c-a3fc-4c55f0786a9d" />
+<img width="1083" height="643" alt="Screenshot 2025-08-03 233512" src="https://github.com/user-attachments/assets/5a7eefa6-9730-45ff-9b75-817035364f97" />
+<img width="1063" height="638" alt="Screenshot 2025-08-03 233432" src="https://github.com/user-attachments/assets/64302ff5-3209-447a-b155-6cc2134fbae9" />
+<img width="1049" height="645" alt="Screenshot 2025-08-03 233351" src="https://github.com/user-attachments/assets/d651ea28-6ce9-4046-8ccb-86d54b30e981" />
